@@ -1,0 +1,41 @@
+{
+  "as_of": "2025-12-30",
+  "rate_curve_pct": {
+    "ZCYC_0.25y": 12.1,
+    "ZCYC_0.5y": 12.5,
+    "ZCYC_0.75y": 12.84,
+    "ZCYC_1.0y": 13.14,
+    "ZCYC_2.0y": 13.92,
+    "ZCYC_3.0y": 14.3,
+    "ZCYC_5.0y": 14.58,
+    "ZCYC_7.0y": 14.59,
+    "ZCYC_10.0y": 14.44,
+    "ZCYC_15.0y": 14.11,
+    "ZCYC_20.0y": 13.91,
+    "ZCYC_30.0y": 13.79
+  },
+  "stock_prices": {
+    "STK_SBER": 299.9,
+    "STK_GAZP": 125.36,
+    "STK_LKOH": 5908.5,
+    "STK_GMKN": 149.46,
+    "STK_ROSN": 409.0,
+    "STK_NVTK": 1188.0,
+    "STK_TATN": 580.7,
+    "STK_MGNT": 3012.0,
+    "STK_MTSS": 213.9,
+    "STK_CHMF": 962.2
+  },
+  "fx_rates": {
+    "FX_USD": 77.4466,
+    "FX_EUR": 91.4775
+  },
+  "brent": 62.03,
+  "ofz_prices": {
+    "OFZ_26219": 97.0,
+    "OFZ_26212": 88.524,
+    "OFZ_26221": 72.031,
+    "OFZ_26218": 79.299,
+    "OFZ_26230": 63.83
+  }
+}
